@@ -1,4 +1,4 @@
-# About this repo
+# About Project
 - Learning about how to use redis by using golang
 
 # Service in This Project
